@@ -1,5 +1,4 @@
 <h1 align="center">Hey am Yanis but can call me 290</h1>
-<h3 align="center">Passionate beginner developer</h3>
 
 - 🔭 I’m currently working on **4 bits CPU project**
 
