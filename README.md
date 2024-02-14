@@ -17,3 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasl290&show_icons=true&locale=en&layout=compact" alt="yasl290" /></p>
 
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
