@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **4 bits CPU project**
 
-- 🌱 I’m currently learning **Python & also interesting in pentest**
+- 🌱 I’m learning **Python & also interesting in pentest**
 
 - 📫 How to reach me **yanis.asselman@epitech.eu**
 
