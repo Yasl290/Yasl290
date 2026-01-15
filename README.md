@@ -87,23 +87,6 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Learning Path
-
-```mermaid
-graph LR
-    A[System Programming] --> B[Network Security]
-    B --> C[Penetration Testing]
-    C --> D[Exploit Development]
-    D --> E[Bug Bounty Hunting]
-    
-    F[Web Development] --> G[Financial Systems]
-    G --> H[Trading Algorithms]
-    H --> I[Blockchain & DeFi]
-```
-
-
----
-
 ## 🎓 Certifications & Achievements
 
 - 🏅 **TryHackMe** - Active learner in cybersecurity
