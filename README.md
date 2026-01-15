@@ -88,31 +88,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</div>
-
----
-
 ## 🎯 Current Learning Path
 
 ```mermaid
@@ -127,25 +102,6 @@ graph LR
     H --> I[Blockchain & DeFi]
 ```
 
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-### 🔥 [Financial Market Software](lien-vers-repo)
-**Real-time trading platform** with automated strategies  
-`Node.js` `TypeScript` `PostgreSQL` `Docker`
-
-### 🛡️ [Security Tools Collection](lien-vers-repo)
-**Custom pentesting tools** and scripts  
-`Python` `Bash` `C`
-
-### 📱 [Mobile App](lien-vers-repo)
-**Cross-platform application** with Flutter  
-`Dart` `Flutter` `Firebase`
-
-</div>
 
 ---
 
@@ -155,14 +111,6 @@ graph LR
 - 🎯 **HackTheBox** - Penetration testing practice
 - 🎓 **Epitech** - Software Engineering Student
 - 💻 **Open Source Contributor**
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="contribution graph"/>
-</div>
 
 ---
 
@@ -185,8 +133,6 @@ graph LR
 ```
 💡 "Security is not a product, but a process." - Bruce Schneier
 ```
-
-### 🌟 If you like my work, feel free to ⭐ my repositories!
 
 **Thanks for visiting! 🚀**
 
