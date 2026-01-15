@@ -44,7 +44,6 @@ me.say_hi()
 - 💼 Building a **Financial Market Software** - automating trading strategies
 - 🛡️ Sharpening my **cybersecurity skills** on TryHackMe & HackTheBox
 - 🌱 Learning **penetration testing**, **network security**, and **exploit development**
-- 🚀 Exploring **blockchain** and **DeFi** technologies
 - 📚 Always diving deeper into **system programming** and **low-level security**
 
 ---
