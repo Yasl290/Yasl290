@@ -8,8 +8,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 
-<img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
 </div>
 
 ```ascii
