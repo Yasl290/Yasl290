@@ -88,14 +88,6 @@ me.say_hi()
 
 ---
 
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
